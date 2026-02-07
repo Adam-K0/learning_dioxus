@@ -1,2 +1,3 @@
 # learning_dioxus
-Documenting myself learning a Rust app framework
+
+See [dioxus](https://github.com/dioxuslabs/dioxus) for more info
